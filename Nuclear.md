@@ -11,6 +11,8 @@ Het is belangrijk omdat er het een "Groene" energie is wat betekent dat het bete
 
 # Opening
 
+Nucleaire energie is beter dan een traditionele kool centrale.
+
 # Argumenten
 
 - Een kool centrale produceert 10x meer radiatie dan een kerncentrale voor dezelfde hoeveelheid aan energie. [Source](https://www.europarl.europa.eu/doceo/document/E-9-2022-003567_EN.html)
@@ -40,4 +42,4 @@ Het is belangrijk omdat er het een "Groene" energie is wat betekent dat het bete
 - Nuclear: $5500/Kw
 
 ### Remake Time
-- 396 uur
+- ~400 uur
