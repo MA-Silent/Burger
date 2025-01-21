@@ -1,4 +1,4 @@
-# Groep: Ben, Robbert & Jonah
+# Groep: Ben, Jonah & Robbert
 
 # Stelling
 ``
