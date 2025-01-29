@@ -51,6 +51,9 @@ Nucleaire energie is beter dan een traditionele kool centrale.
 ## Build Price
 - Coal: $3600/Kw
 - Nuclear: $5500/Kw
+## Grams per kWh
+- Wind: 12 gPkWh
+- Nuclear: 6 gPkWh
 ### Remake Time
 - ~400 uur
 </details>
