@@ -27,7 +27,7 @@ Nucleaire energie is beter dan een traditionele kool centrale.
    - Only 30 dead (direct) 4.000 ongeveer later. (wetenchappers denken dat het lager was)
 
 - Veel mensen gaan dood aan nuclear
-  - wij: kool zorgt voor veel polution. en polution vermoort ongeveer 4.000.000 mensen per jaar. terwijl Chernoybl maar 4.000 mensen had vermoort (ongeveer). Banqiao Flood 171.00 mensen
+  - wij: kool zorgt voor veel polution. en polution vermoort ongeveer 4.000.000 mensen per jaar. terwijl Chernoybl maar 4.000 mensen had vermoort (ongeveer). Fukushiema Flood 171.00 mensen
     - tegen: ja maar er zijn ook veel meer cool centrales dan kern dus natuurlijk zijn er meer dooden
       - wij: per 1 Twh in 50 jaar gaan er 1.230 mensen dood aan coal. en worst case aan nuclear maar 3.5
 
