@@ -24,7 +24,7 @@ Nucleaire energie is beter dan een traditionele kool centrale.
 - Chernobyl had een meltdown
   
   Response: Chernobyl was al "out of date" en Chernobyl was "operated with inadequately trained personnel." [Source](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident#:~:text=The%20Chernobyl%20accident%20in%201986,in%20many%20parts%20of%20Europe)
-   - Only 30 dead (direct) 4.000 later
+   - Only 30 dead (direct) 4.000 ongeveer later. (wetenchappers denken dat het lager was)
 
 
 # Argumenten tegenpartij
